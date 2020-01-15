@@ -1,2 +1,2 @@
 # node-typescript-starter
-Boirlaplate node typescript
+Boilerplate nodeJS with Typescript
