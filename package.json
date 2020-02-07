@@ -1,9 +1,9 @@
 {
-  "name": "fastfeet",
+  "name": "node-typescript-starter",
   "version": "1.0.0",
-  "description": "GoStack Bootcamp - Challenge  Rocketseat - 10.0",
+  "description": "Node Typescript starter configs",
   "main": "./bin/server.ts",
-  "repository": "https://github.com/KalleoPinheiro/fastfeet.git",
+  "repository": "https://github.com/KalleoPinheiro/node-typescript-starter",
   "author": "Kalleo Pinheiro <kalleo.pinheiro@zup.com.br>",
   "private": true,
   "scripts": {

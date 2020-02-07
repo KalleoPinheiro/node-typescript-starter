@@ -1,2 +1,2 @@
-# fastfeet
-GoStack Bootcamp - Challenge  Rocketseat - 10.0
+# Node Typescript Starter
+Node Typescript starter configs
