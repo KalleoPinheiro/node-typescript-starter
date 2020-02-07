@@ -1,0 +1,7 @@
+{
+  "watch": ["bin", "src"],
+  "ext": "ts",
+  "execMap": {
+    "ts": "sucrase-node ./bin/server.ts"
+  }
+}
