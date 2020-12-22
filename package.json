@@ -23,7 +23,7 @@
     "express": "4.17.1",
     "global": "4.4.0",
     "helmet": "3.21.2",
-    "node-notifier": "6.0.0",
+    "node-notifier": "8.0.1",
     "winston": "3.2.1"
   },
   "devDependencies": {
